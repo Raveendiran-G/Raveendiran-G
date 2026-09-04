@@ -59,8 +59,7 @@ Web
 <p> <img src="https://skillicons.dev/icons?i=html,css,react,vite" /> </p>
 Database & Tools
 <p> <img src="https://skillicons.dev/icons?i=mysql,git,github,vscode" /> </p>
-🚀 Projects
-<p align="center"> <a href="https://github.com/Raveendiran-G"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=Raveendiran-G&repo=YOUR_REPO_1&theme=tokyonight&hide_border=true" /> </a> <a href="https://github.com/Raveendiran-G"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=Raveendiran-G&repo=YOUR_REPO_2&theme=tokyonight&hide_border=true" /> </a> </p>
+
 🧩 LeetCode
 <p align="center"> <img src="https://leetcard.jacoblin.cool/Raveendiran-G?theme=dark&font=Baloo+2&ext=heatmap"/> </p>
 📊 GitHub Stats
