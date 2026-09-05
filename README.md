@@ -17,7 +17,7 @@
 
 <img src="https://komarev.com/ghpvc/?username=Raveendiran-G&style=for-the-badge&color=00C2FF&label=PROFILE+VIEWS"/>
 
-</div>
+
 
 ---
 
@@ -89,3 +89,4 @@ Database & Tools
 | 📊 GitHub Stats | 💻 Top Languages |
 |---|---|
 | <a href="https://github.com/Raveendiran-G"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Raveendiran-G&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true" alt="Raveendiran's GitHub stats" /></a> | <a href="https://github.com/Raveendiran-G"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raveendiran-G&layout=compact&theme=tokyonight&hide_border=true" /></a> |
+</div>
