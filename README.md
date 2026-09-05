@@ -1,7 +1,9 @@
 <div align="center">
 
 # 👋 Raveendiran
-
+<p align="center"> 
+  <img src="assests/nightlife.gif" alt="Lofi Nightlight scene" /> 
+</p>
 ### AI & Data Science Student • C++ Developer • Java Developer
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=AI+%26+Data+Science;C%2B%2B+%7C+Java+%7C+Python;DSA+%7C+Web+Development;Build.+Learn.+Improve.+%F0%9F%9A%80" />
