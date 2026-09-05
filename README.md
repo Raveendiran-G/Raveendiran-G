@@ -60,11 +60,39 @@ Web
 Database & Tools
 <p> <img src="https://skillicons.dev/icons?i=mysql,git,github,vscode" /> </p>
 
-🧩 LeetCode
-<p align="center"> <img src="https://leetcard.jacoblin.cool/Raveendiran-G?theme=dark&font=Baloo+2&ext=heatmap"/> </p>
-📊 GitHub Stats
-<p align="center"> <img height="180" src="https://github-readme-stats.vercel.app/api?username=Raveendiran-G&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/> <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raveendiran-G&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/> </p>
-🔥 Streak
-<p align="center"> <img src="https://streak-stats.demolab.com?user=Raveendiran-G&theme=tokyonight&hide_border=true"/> </p>
-🐍 Contributions
-<p align="center"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Raveendiran-G/Raveendiran-G/output/github-contribution-grid-snake-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Raveendiran-G/Raveendiran-G/output/github-contribution-grid-snake.svg" /> <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/Raveendiran-G/Raveendiran-G/output/github-contribution-grid-snake.svg" /> </picture> </p>
+# 🧩 LeetCode
+
+<div align="center">
+
+<a href="https://leetcode.com/u/G_Raveendiran/">
+<img src="https://leetcard.jacoblin.cool/G_Raveendiran?theme=dark&font=Baloo_2&extension=heatmap" />
+</a>
+
+<br><br>
+
+<a href="https://leetcode.com/u/G_Raveendiran/">
+<img src="https://img.shields.io/badge/LeetCode-G_Raveendiran-FFA116?style=for-the-badge&logo=leetcode&logoColor=black">
+</a>
+
+### 🚀 My contributions! Whose <img src="https://c.tenor.com/BczFoyx41WoAAAAj/swallowed-the-mighty-ones.gif" width="30" height="30"> snake is this!? 😭
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/Raveendiran-G/Raveendiran-G/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/Raveendiran-G/Raveendiran-G/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="GitHub Contribution Snake"
+    src="https://raw.githubusercontent.com/Raveendiran-G/Raveendiran-G/output/github-contribution-grid-snake.svg"
+  />
+</picture>
+
+<br>
+
+| 📊 GitHub Stats | 💻 Top Languages |
+|---|---|
+| <a href="https://github.com/Raveendiran-G"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Raveendiran-G&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true" alt="Raveendiran's GitHub stats" /></a> | <a href="https://github.com/Raveendiran-G"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raveendiran-G&layout=compact&theme=tokyonight&hide_border=true" /></a> |
