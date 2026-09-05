@@ -121,6 +121,3 @@ Database & Tools
 
 </div>
 
-| 📊 GitHub Stats | 💻 Top Languages |
-|---|---|
-| <a href="https://github.com/Raveendiran-G"><img src="./profile/stats.svg" alt="Raveendiran's GitHub stats" /></a> | <a href="https://github.com/Raveendiran-G"><img src="./profile/top-langs.svg" alt="Top Languages" /></a> |
