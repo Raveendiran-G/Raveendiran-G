@@ -98,7 +98,9 @@ Database & Tools
 
 </div>
 
-### 🚀 My contributions! Whose <img src="https://c.tenor.com/BczFoyx41WoAAAAj/swallowed-the-mighty-ones.gif" width="30" height="30"> snake is this!? 😭
+<div align="center">
+
+## 🚀 My contributions! Whose <img src="https://c.tenor.com/BczFoyx41WoAAAAj/swallowed-the-mighty-ones.gif" width="30" height="30"> snake is this!? 😭
 
 <picture>
   <source
@@ -116,6 +118,9 @@ Database & Tools
 </picture>
 
 <br><br>
+
+</div>
+
 | 📊 GitHub Stats                                                                                                                                                                                                                            | 💻 Top Languages                                                                                                                                                                                               |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | <a href="https://github.com/Raveendiran-G"><img src="https://github-readme-stats.vercel.app/api?username=Raveendiran-G&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true" alt="Raveendiran's GitHub stats" /></a> | <a href="https://github.com/Raveendiran-G"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raveendiran-G&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" /></a> |
