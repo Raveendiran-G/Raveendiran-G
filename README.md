@@ -17,19 +17,25 @@
 </p>
 
 <img src="https://komarev.com/ghpvc/?username=Raveendiran-G&style=for-the-badge&color=00C2FF&label=PROFILE+VIEWS"/>
+## 💻 About Me
 
-<h2></h2><br>
-<p align="center"> 
-  <img src="assests/nightlife.gif" alt="Lofi Nightlight scene" /> 
-</p>
+<table>
+<tr>
 
----
+<td width="40%" align="center">
 
-## 🧑‍💻 About Me
+<img src="./nightlife.gif" alt="Lofi Nightlife" width="350">
+
+</td>
+
+<td width="60%" valign="top">
+
+<h2>👨‍💻 About Me</h2>
 
 ```cpp
 class Raveendiran {
 public:
+
     string focus = "AI & Data Science";
 
     vector<string> languages = {
@@ -46,9 +52,10 @@ public:
         "Web Development"
     };
 };
+</td> </tr> </table>
 
 ```
-
+<div align="center">
 💻 Tech Stack
 Languages
 <p> <img src="https://skillicons.dev/icons?i=cpp,java,python,javascript" /> </p>
@@ -56,10 +63,10 @@ Web
 <p> <img src="https://skillicons.dev/icons?i=html,css,react,vite" /> </p>
 Database & Tools
 <p> <img src="https://skillicons.dev/icons?i=mysql,git,github,vscode" /> </p>
+</div>
 
 # 🧩 LeetCode
 
-<div align="center">
 
 <a href="https://leetcode.com/u/G_Raveendiran/">
 <img src="https://leetcard.jacoblin.cool/G_Raveendiran?theme=dark&font=Baloo_2&extension=heatmap" />
@@ -88,9 +95,8 @@ Database & Tools
   />
 </picture>
 
-<br>
+<br><br>
+| 📊 GitHub Stats                                                                                                                                                                                                                            | 💻 Top Languages                                                                                                                                                                                               |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <a href="https://github.com/Raveendiran-G"><img src="https://github-readme-stats.vercel.app/api?username=Raveendiran-G&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true" alt="Raveendiran's GitHub stats" /></a> | <a href="https://github.com/Raveendiran-G"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raveendiran-G&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" /></a> |
 
-| 📊 GitHub Stats | 💻 Top Languages |
-|---|---|
-| <a href="https://github.com/Raveendiran-G"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Raveendiran-G&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true" alt="Raveendiran's GitHub stats" /></a> | <a href="https://github.com/Raveendiran-G"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raveendiran-G&layout=compact&theme=tokyonight&hide_border=true" /></a> |
-</div>
